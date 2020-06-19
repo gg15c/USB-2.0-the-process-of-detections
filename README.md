@@ -1,7 +1,7 @@
 # USB-2.0-the-process-of-detections
 
 ## Introduction
- In terms of hardware perspective, to illustrate the process of the detection
+ In terms of the hardware perspective, illustrating the process of the detection
  
  ## USB 2.0 spec 
  
