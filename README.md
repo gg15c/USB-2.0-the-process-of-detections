@@ -19,9 +19,14 @@
 
  <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_spec_1.png">
 
+
+* The initialization of a high-speed device 
+
+ <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_high_speed.png" width="50%" height="50%" />
+
 ## Result
 
-I was plugging a USB dongle, and trying to verify the spec.
+I was plugging a USB dongle, trying to verify the spec.
 
 * A full speed device plug-in
  <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_detect.png">
@@ -30,6 +35,7 @@ I was plugging a USB dongle, and trying to verify the spec.
  <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_detect_1.png">
  <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_detect_2.png">
 
+* A high speed device plug-in
 
 
 
