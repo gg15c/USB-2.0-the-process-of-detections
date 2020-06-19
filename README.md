@@ -13,11 +13,11 @@
 
 * The voltage divider on the lines
  
- <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_spec.png">
+ <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_spec.png" width="75%" height="75%" />
  
 * The low, full, and high speed device connection
 
- <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_spec_1.png">
+ <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_spec_1.png" width="75%" height="75%" />
 
 
 * The initialization of a high-speed device 
