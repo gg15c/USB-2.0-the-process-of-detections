@@ -37,6 +37,7 @@ I was plugging a USB dongle, trying to verify the spec.
 
 * A high speed device plug-in
 
+ <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_high_speed_1.png">
 
 
 ## Reference
