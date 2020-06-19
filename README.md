@@ -4,6 +4,10 @@
  In terms of the hardware perspective, illustrating the process of the detection
  
  ## USB 2.0 spec 
+
+* The terms
+
+<img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/term.png">
  
 * The voltage divider on the lines
  
