@@ -22,7 +22,7 @@
 
 * The initialization of a high-speed device 
 
- <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_high_speed.png" width="75%" height="75%" />
+ <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_high_speed.png" width="90%" height="90%" />
 
 ## Result
 
