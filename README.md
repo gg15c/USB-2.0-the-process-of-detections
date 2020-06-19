@@ -7,8 +7,10 @@
 
 * The terms
 
-<img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/term.png" style="zoom:75%" />
  
+<img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/term.png" width="75%" height="75%" />
+
+
 * The voltage divider on the lines
  
  <img src="https://raw.githubusercontent.com/gg15c/USB-2.0-the-process-of-detections/master/Img/usb_spec.png">
