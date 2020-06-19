@@ -42,9 +42,11 @@ I was plugging a USB dongle, trying to verify the spec.
 
 ## Miscellaneous points
 
-* How to distinguish a high-speed device or a full-speed device?
+How to distinguish a high-speed device or a full-speed device?
 
-Both of them pull a resistor at D+ line, but the high-speed device will generate a signal on the D- to notify the host.
+=> Both of them pull a resistor at D+ line, but the high-speed device will generate a signal on the D- to notify the host.
+
+
 
 ## Reference
 * https://www.usb.org/document-library/usb-20-specification
